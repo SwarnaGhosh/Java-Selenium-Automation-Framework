@@ -1,0 +1,216 @@
+[INFO ] 2023-06-15 00:02:09.726 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 11:32:53.794 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 11:32:53.799 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 11:34:27.725 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 11:35:15.166 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 11:35:15.170 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 11:35:27.516 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 12:05:22.404 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 12:05:22.409 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 12:07:15.241 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 12:15:41.088 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 12:15:41.093 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 12:17:21.710 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 12:28:28.368 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 12:28:28.373 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 12:30:09.725 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 12:41:54.647 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 12:41:54.652 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 12:43:46.126 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 12:47:12.587 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 12:47:12.592 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 12:47:44.694 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 12:50:45.407 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 12:50:45.411 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 12:51:09.868 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 14:22:11.037 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 14:22:11.041 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 14:23:56.576 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 14:29:49.991 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 14:29:49.995 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 14:29:59.972 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 14:30:50.786 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 14:30:50.790 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 14:31:00.419 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 14:38:25.790 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 14:38:25.794 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 14:40:06.536 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 14:45:16.294 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 14:45:16.298 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 14:45:27.275 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 14:47:33.168 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 14:47:33.172 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 14:48:21.341 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 14:53:08.525 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 14:53:08.529 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 14:53:18.969 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 14:54:23.485 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 14:54:23.490 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 14:54:36.012 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 15:14:30.689 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 15:14:30.693 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 15:15:46.655 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 15:17:56.905 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 15:17:56.909 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 15:18:56.703 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 15:19:08.844 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 15:19:08.849 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 15:21:44.091 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 15:23:21.240 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 15:23:21.244 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 15:23:36.360 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 15:24:52.135 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 15:24:52.139 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 15:25:03.333 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 15:26:16.465 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 15:26:16.469 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 15:26:27.673 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 15:44:13.358 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 15:44:13.362 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 15:45:55.745 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.036 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.041 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.042 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.047 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.047 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.048 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.049 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.049 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.049 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.050 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.050 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.051 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.052 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.052 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.052 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.054 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.054 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.054 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.055 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.055 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.056 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.057 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.057 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.057 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.058 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.058 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.059 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.060 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.060 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.060 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.062 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.062 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.062 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.063 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.063 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.064 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.065 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.066 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.066 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.068 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.068 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.068 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.069 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.069 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.069 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.070 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.070 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.071 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.073 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.073 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.073 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.074 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.074 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.075 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.076 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.076 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.076 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.077 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.077 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.077 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.078 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.078 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.078 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.079 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.079 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.080 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.081 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.081 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.081 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.082 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.082 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.083 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.083 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.083 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.084 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.085 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.085 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.085 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.086 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.086 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.086 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.087 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.087 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.087 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.088 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.088 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.088 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:26:11.089 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:26:11.089 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:26:11.089 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:33:49.833 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:33:49.838 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:35:53.171 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:40:01.870 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:40:01.874 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:40:54.152 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:42:28.652 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:42:28.656 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:42:46.517 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:44:28.115 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:44:28.119 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:44:39.004 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:45:23.110 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:45:23.115 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:45:32.925 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 16:45:38.039 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 16:45:38.039 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 16:45:46.480 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 17:03:20.719 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 17:03:20.724 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 17:04:32.179 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 17:14:25.273 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 17:14:25.277 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 17:15:28.686 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 17:17:04.107 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 17:17:04.111 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 17:17:14.446 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 17:38:48.025 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 17:38:48.030 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 17:40:04.463 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 17:42:45.672 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 17:42:45.676 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 17:44:11.294 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 17:47:56.918 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 17:47:56.922 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 17:48:08.680 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 17:49:38.962 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 17:49:38.967 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 17:49:51.246 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 18:39:51.451 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 18:39:51.456 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 18:41:05.759 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 20:02:16.021 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 20:02:16.026 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 20:05:49.362 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 20:05:49.366 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 20:06:56.966 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 22:34:46.791 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 22:34:46.796 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 22:36:25.461 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 22:37:07.666 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 22:37:07.667 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 22:38:14.730 [main] LoggerManager - Test Started 1
+[INFO ] 2023-06-15 22:38:19.118 [main] LoggerManager - Browser: chrome
+[INFO ] 2023-06-15 22:38:19.118 [main] LoggerManager - WebsiteURL: https://www.nba.com/
+[INFO ] 2023-06-15 22:39:56.908 [main] LoggerManager - Test Started 1
