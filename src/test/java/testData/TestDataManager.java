@@ -67,7 +67,35 @@ public class TestDataManager {
     public Object[][] dataProviderMethod(){
         return new Object[][]{
                 {"Atlanta","Hawks - The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com"},
-
+                {"Boston","Celtics - The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com"},
+                {"Brooklyn","Brooklyn Nets | The Official Site of the Brooklyn Nets"},
+                {"Charlotte","Hornets - The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com"},
+                {"Chicago","Bulls - The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com"},
+                {"Cleveland","Cavaliers - The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com"},
+                {"Dallas","Home - The Official Home of the Dallas Mavericks"},
+                {"Denver","Nuggets - The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com"},
+                {"Detroit","Pistons - The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com"},
+                {"Golden State","Home | Golden State Warriors"},
+                {"Houston","Rockets - The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com"},
+                {"Indiana","Pacers - The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.comA"},
+                {"LA Clippers","Pacers - The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com"},
+                {"LA Lakers","Lakers - The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com"},
+                {"Memphis","Grizzlies - The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com"},
+                {"Miami","Miami HEAT Team Homepage - Miami HEAT"},
+                {"Milwaukee","Bucks - The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com"},
+                {"Minnesota","Timberwolves - The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com"},
+                {"New Orleans","Pelicans - The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com"},
+                {"New York","Knicks - The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com"},
+                {"Oklahoma City","Thunder- The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com"},
+                {"Orlando","Magic - The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com"},
+                {"Philadelphia","Sixers - The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com"},
+                {"Phoenix","Suns.com"},
+                {"Portland","Trail Blazers - The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com"},
+                {"Sacramento","Kings - The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com\""},
+                {"San Antonio","Spurs - The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com\""},
+                {"Toronto","Raptors - The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com\""},
+                {"Utah","Jazz - The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com\""},
+                {"Washington","Wizard - The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com\""}
         };
     }
 }
